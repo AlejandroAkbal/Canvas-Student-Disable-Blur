@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name        CanvasStudentDisableBlur
+// @version     1.1
 // @author      Alejandro Akbal
 // @description Disables blur on a Canvas Student website
 // @namespace   https://github.com/AlejandroAkbal/Canvas-Student-Disable-Blur
 // @homepage    https://github.com/AlejandroAkbal/Canvas-Student-Disable-Blur
 // @supportURL  https://github.com/AlejandroAkbal/Canvas-Student-Disable-Blur/issues
 // @downloadURL https://raw.githubusercontent.com/AlejandroAkbal/Canvas-Student-Disable-Blur/master/src/script.user.js
-// @grant       none
-// @version     1.0
 // @match       https://campus.ilerna.es/*
+// @grant       none
 // ==/UserScript==
 
 function startup() {
