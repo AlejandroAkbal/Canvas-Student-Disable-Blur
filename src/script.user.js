@@ -9,6 +9,7 @@
 // @downloadURL https://raw.githubusercontent.com/AlejandroAkbal/Canvas-Student-Disable-Blur/master/src/script.user.js
 // @match       https://campus.ilerna.es/*
 // @grant       none
+// @run-at      document-start
 // ==/UserScript==
 
 function startup() {
