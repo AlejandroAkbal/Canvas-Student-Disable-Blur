@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        CanvasStudentDisableBlur
+// @name        Canvas Student Disable Blur
 // @version     1.1
 // @author      Alejandro Akbal
 // @description Disables blur on a Canvas Student website
